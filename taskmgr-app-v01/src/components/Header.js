@@ -2,7 +2,7 @@ const Header = (props) =>
 {
     return(
     <>
-        <p>{props.title}</p>
+        <h1>{props.title}</h1>
 
     </>
     );
