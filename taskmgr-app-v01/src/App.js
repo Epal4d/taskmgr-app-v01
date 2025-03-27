@@ -1,7 +1,9 @@
+import Home from "./components/Home";
+
 function App() {
   return (
     <>
-    <p> Demo Task Manager app </p>
+      <Home/>
     </>
   );
 }
