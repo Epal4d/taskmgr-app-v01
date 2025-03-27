@@ -1,9 +1,9 @@
-
 function App() {
   return (
     <>
-    <h1> Demo Task Manager app </h1>
-    </>);
+    <p> Demo Task Manager app </p>
+    </>
+  );
 }
 
 export default App;
