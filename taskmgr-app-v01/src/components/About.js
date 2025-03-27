@@ -1,3 +1,5 @@
+import {Link} from "react-router-dom"
+
 const About = () =>
     { return(
         <>
@@ -16,4 +18,3 @@ const About = () =>
     };
 
     export default About;
-    
