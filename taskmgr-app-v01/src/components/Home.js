@@ -1,6 +1,6 @@
 import Header from "./Header"
 import Footer from "./Footer"
-import { useEffect } from react 
+import { useEffect } from "react" 
 function Home()
 {
     useEffect(()=>{ 
@@ -9,7 +9,7 @@ function Home()
 
     },[])
 
-    
+
     return(
         <>
         <Header title="Task manager"></Header>
